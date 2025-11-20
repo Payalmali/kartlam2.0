@@ -1,0 +1,12 @@
+.carousel-inner img {
+    display: block;
+    margin: 0 auto; /* to center the images */
+    width: 50%; /* to size the images to 50% */
+    height: auto; /* to maintain the aspect ratio */
+  }
+  .carousel-image {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+  }
